@@ -1,7 +1,10 @@
 # GPU_Cache_Size_Apple_Silicon
-Finding cache line size (in bytes) with cache access latency using Swift &amp; Metal code (MacOS App)
 
-Xcode Recommended
+Finding cache line size (in bytes) for Apple Silicon GPU with cache access latency using Swift &amp; Metal code (MacOS App)
+
+
+
+Xcode is prerequisite 
 
 To run via command line, install command line tools for Xcode:
 ```
