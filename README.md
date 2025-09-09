@@ -15,7 +15,7 @@ sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
 To Build:
 
 ```
-xcodebuild -scheme GPUCacheSizeTest -derivedDataPath build
+xcodebuild -scheme GPUCacheTest -derivedDataPath build
 ```
 
 To run:
